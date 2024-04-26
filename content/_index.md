@@ -61,20 +61,20 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-     items:
-        - title: ROS Software Engineer (Part-time Hardware Engineer)
-          company: Zhejiang University Huzhou Research Institute
+      items:
+        - title: CEO
+          company: GenCoin
           company_url: ''
           company_logo: org-gc
-          location: Zhejiang
-          date_start: 'November 2023'
-          date_end: 'March 2024'
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Accelerated YOLOv5 inference for an aquatic robot to 153fps using NPU.
-              * Integrated object recognition with path planning for obstacle avoidance.
-              * Designed a motion controller for paddle control and integrated power supply solutions.
+              * Analysing
+              * Modelling
+              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
