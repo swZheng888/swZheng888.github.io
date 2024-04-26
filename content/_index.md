@@ -65,7 +65,7 @@ sections:
         - title: ROS Software Engineer (Part-time Hardware Engineer)
           company: Zhejiang University Huzhou Research Institute
           company_url: ''
-          company_logo: org-ZJU
+          company_logo: org-gc
           location: Huzhou
           date_start: '2024-01-11'
           date_end: ''
