@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: ROS Software Engineer (Part-time Hardware Engineer)
+          company: Zhejiang University Huzhou Research Institute
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Huzhou
+          date_start: '2024-01-11'
           date_end: ''
           description: |2-
               Responsibilities include:
