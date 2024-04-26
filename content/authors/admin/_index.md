@@ -30,8 +30,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Path Planning 
+  - Robotics and Automation
 
 # Education to show in About widget
 education:
@@ -93,7 +93,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'siweizheng03@163.com'
   - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/425589267
