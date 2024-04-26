@@ -65,16 +65,16 @@ sections:
         - title: ROS Software Engineer (Part-time Hardware Engineer)
           company: Zhejiang University Huzhou Research Institute
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-ZJU
           location: Huzhou
           date_start: '2024-01-11'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+               * Accelerated YOLOv5 inference for an aquatic robot to 153fps using NPU.
+               * Integrated object recognition with path planning for obstacle avoidance.
+               * Designed a motion controller for paddle control and integrated power supply solutions.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
