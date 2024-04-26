@@ -65,7 +65,7 @@ sections:
         - title: ROS Software Engineer (Part-time Hardware Engineer)
           company: Zhejiang University Huzhou Research Institute
           company_url: ''
-          company_logo: org-zjhu
+          company_logo: org-gc
           location: Zhejiang
           date_start: 'November 2023'
           date_end: 'March 2024'
@@ -75,14 +75,14 @@ sections:
               * Accelerated YOLOv5 inference for an aquatic robot to 153fps using NPU.
               * Integrated object recognition with path planning for obstacle avoidance.
               * Designed a motion controller for paddle control and integrated power supply solutions.
-        # - title: Professor of Semiconductor Physics
-        #   company: University X
-        #   company_url: ''
-        #   company_logo: org-x
-        #   location: California
-        #   date_start: '2016-01-01'
-        #   date_end: '2020-12-31'
-        #   description: Taught electronic engineering and researched semiconductor physics.
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
