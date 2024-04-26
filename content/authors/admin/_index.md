@@ -94,7 +94,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: Bilibil
+  - icon: youtube
     icon_pack: fab
     link: https://space.bilibili.com/425589267
     label: Follow me on Bilibil
