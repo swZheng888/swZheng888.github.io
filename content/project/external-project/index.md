@@ -1,12 +1,12 @@
 ---
-title:  Car Competition Project
-summary: In Linux environment, c++ is used to develop a robust visual tracking algorithm on Edgeboard, including image correction, adaptive threshold, fuzzy PID control, serial communication and high reliability. Real-time vehicle control within 15 milliseconds was achieved using YOLOv3 and PaddlePaddle, and a motion control system was created for Infineon TC264 as a submachine. Won the first prize of the National Intelligent Car Competition for college students.
+title: Outdoor Robot Navigation Project
+summary: This project achieved robust outdoor robot navigation using ROS, with Cartographer for mapping on an Intel i5-4200U PC. Localization was enhanced through EKF fusion of IMU and odometry data, followed by AMCL. Global path planning was managed by A*, with TEB for local planning and Pure Pursuit for stable path tracking. The project won the national second prize in the Intelligent Driving Challenge.
 tags:
   - Deep Learning
   - Control Systems
   - Path Planning 
 
-date: '2023-01-27T00:00:00Z'
+date: '2023-09-07T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -20,10 +20,10 @@ links:
     icon_pack: fab
     name: Follow
     url: https://github.com/swZheng888
-url_code: ''
-url_pdf: 'uploads/intelligentcar.pdf'
-url_slides: ''
-url_video: ''
+# url_code: ''
+# url_pdf: 'uploads/intelligentcar.pdf'
+# url_slides: ''
+# url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
