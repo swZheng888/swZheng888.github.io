@@ -54,13 +54,12 @@ skills:
       - name: C++
         description: ''
         percent: 100
-        icon: assets/media/cpp
-        icon_pack: fab
+        icon: assets/media/cpp.png
       - name: Python
         description: ''
         percent: 100
         icon: chart-line
-        icon_pack: fas
+        
       # - name: SQL
       #   description: ''
       #   percent: 40
