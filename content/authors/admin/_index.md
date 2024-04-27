@@ -53,12 +53,12 @@ skills:
     items:
       - name: C++
         description: ''
-        percent: 100
+        percent: 80
         icon: code
         icon_pack: fas
       - name: Python
         description: ''
-        percent: 100
+        percent: 60
         icon: terminal
         icon_pack: fab
       # - name: SQL
