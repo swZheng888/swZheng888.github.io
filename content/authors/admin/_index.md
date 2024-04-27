@@ -54,7 +54,7 @@ skills:
       - name: C++
         description: ''
         percent: 100
-        icon: /workspaces/swZheng888.github.io/assets/media/cpp.png
+        icon: cpp.png
         icon_pack: fab
       - name: Python
         description: ''
@@ -73,12 +73,12 @@ skills:
       - name: ping-pong
         description: ''
         percent: 80
-        icon: ping-pong
+        icon: ping-pong.png
         icon_pack: fas
       - name: game
         description: ''
         percent: 50
-        icon: game
+        icon: game.png
         icon_pack: fas
       - name: Photography
         description: ''
