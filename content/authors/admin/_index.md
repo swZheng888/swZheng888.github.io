@@ -55,7 +55,7 @@ skills:
         description: ''
         percent: 100
         icon: cpp
-        # icon_pack: fab
+        icon_pack: fab
       - name: Python
         description: ''
         percent: 100
@@ -74,12 +74,12 @@ skills:
         description: ''
         percent: 80
         icon: ping-pong
-        # icon_pack: fas
+        icon_pack: fas
       - name: game
         description: ''
         percent: 50
         icon: game
-        # icon_pack: fas
+        icon_pack: fas
       - name: Photography
         description: ''
         percent: 80
