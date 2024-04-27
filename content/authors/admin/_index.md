@@ -54,11 +54,12 @@ skills:
       - name: C++
         description: ''
         percent: 100
-        icon: cpp.svg
+        icon: code-bracket
+        icon_pack: fas
       - name: Python
         description: ''
         percent: 100
-        icon: chart-line
+        icon: python
         icon_pack: fas
       # - name: SQL
       #   description: ''
@@ -72,13 +73,13 @@ skills:
       - name: ping-pong
         description: ''
         percent: 80
-        icon: ping-pong
-        icon_pack: fab
+        icon: table-tennis-paddle-ball
+        icon_pack: fas
       - name: game
         description: ''
         percent: 50
-        icon: game
-        icon_pack: fab
+        icon: gamepad
+        icon_pack: fas
       - name: Photography
         description: ''
         percent: 80
