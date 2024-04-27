@@ -1,9 +1,12 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Intelligent Car Competition Project
+summary: In Linux environment, c++ is used to develop a robust visual tracking algorithm on Edgeboard, including image correction, adaptive threshold, fuzzy PID control, serial communication and high reliability. Real-time vehicle control within 15 milliseconds was achieved using YOLOv3 and PaddlePaddle, and a motion control system was created for Infineon TC264 as a submachine. Won the first prize of the National Intelligent Car Competition for college students.
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Control Systems
+  - Path Planning 
+
+date: '2023-01-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
