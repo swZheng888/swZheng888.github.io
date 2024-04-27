@@ -60,7 +60,7 @@ skills:
         description: ''
         percent: 100
         icon: cpp
-        icon_pack: custom
+        icon_pack: assets/media/icons/
       # - name: SQL
       #   description: ''
       #   percent: 40
