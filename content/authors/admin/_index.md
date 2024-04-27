@@ -74,12 +74,12 @@ skills:
         description: ''
         percent: 80
         icon: ping-pong
-        icon_pack: fas
+        # icon_pack: fas
       - name: game
         description: ''
         percent: 50
         icon: game
-        icon_pack: fas
+        # icon_pack: fas
       - name: Photography
         description: ''
         percent: 80
