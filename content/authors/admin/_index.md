@@ -59,8 +59,8 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: python
-        icon_pack: fas
+        icon: cpp.svg
+        icon_pack: custom
       # - name: SQL
       #   description: ''
       #   percent: 40
