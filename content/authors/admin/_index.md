@@ -53,9 +53,9 @@ skills:
     items:
       - name: C++
         description: ''
-        percent: 80
-        icon: C++
-        icon_pack: fab
+        percent: 100
+        icon: cpp
+        # icon_pack: fab
       - name: Python
         description: ''
         percent: 100
@@ -70,15 +70,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: ping-pong
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 80
+        icon: ping-pong
         icon_pack: fas
-      - name: Cats
+      - name: game
         description: ''
-        percent: 100
-        icon: cat
+        percent: 50
+        icon: game
         icon_pack: fas
       - name: Photography
         description: ''
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Zheng Siwei is a top-performing student in Automation at Lanzhou University of Technology, with a GPA of 3.94 and national awards in AI competitions. Skilled in programming and AI frameworks, he has practical experience as an ROS engineer and a record of leading successful tech projects.
+Zheng Siwei is a student in the Department of Automation at Lanzhou University of Technology, where he has earned a GPA of 3.94. He has been acknowledged with national awards in robotics competitions, showcasing his skills in programming and Robot frameworks. Additionally, Zheng has practical experience in robotics engineering and has successfully led several technology projects
 {style="text-align: justify;"}
