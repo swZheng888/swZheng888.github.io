@@ -1,6 +1,6 @@
 ---
 title: Intelligent Car Competition Project
-summary: In Linux environment, c++ is used to develop a robust visual tracking algorithm on Edgeboard, including image correction, adaptive threshold, fuzzy PID control, serial communication and high reliability. Real-time vehicle control within 15 milliseconds was achieved using YOLOv3 and PaddlePaddle, and a motion control system was created for Infineon TC264 as a submachine. Won the first prize of the National Intelligent Car Competition for college students.
+summary: In Linux environment, c++ is used to develop a robust visual tracking algorithm on Edgeboard, including image correction, adaptive threshold, fuzzy PID control, serial communication and high reliability. Real-time vehicle control within 15 milliseconds was achieved using YOLOv3 and PaddlePaddle, and a motion control system was created for Infineon TC264 as a submachine. Won the first prize of the National University Students Intelligent Car Race.
 tags:
   - Deep Learning
   - Control Systems
