@@ -171,8 +171,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Robot Systems
+          tag: Robots Systems
         - name: Other
           tag: Demo
     design:
