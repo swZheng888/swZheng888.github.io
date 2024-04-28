@@ -20,6 +20,10 @@ links:
     icon_pack: fab
     name: Follow
     url: https://github.com/swZheng888
+  - icon: bilibili
+    icon_pack: fab
+    name: video
+    url: https://www.bilibili.com/video/BV14G411v7XC
 # url_code: ''
 # url_pdf: 'uploads/intelligentcar.pdf'
 # url_slides: ''

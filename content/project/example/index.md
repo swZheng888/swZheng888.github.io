@@ -23,7 +23,7 @@ links:
   - icon: bilibili
     icon_pack: fab
     name: video
-    url: https://www.bilibili.com/video/BV14G411v7XC
+    url: https://www.bilibili.com/video/BV1e841197zS
 url_code: ''
 url_pdf: 'uploads/intelligentcar.pdf'
 url_slides: ''
