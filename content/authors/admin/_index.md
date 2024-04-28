@@ -60,7 +60,7 @@ skills:
         description: ''
         percent: 60
         icon: terminal
-        icon_pack: fab
+        icon_pack: fas
       # - name: SQL
       #   description: ''
       #   percent: 40
