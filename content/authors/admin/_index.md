@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Zheng Siwei is a student in the Department of Automation at Lanzhou University of Technology, where he has earned a GPA of 3.94. He has been acknowledged with national awards in robotics competitions, showcasing his skills in programming and Robot frameworks. Additionally, Zheng has practical experience in robotics engineering and has successfully led several technology projects
+Zheng Siwei is an outstanding student in the Department of Automation at Lanzhou University of Technology, with an impressive GPA of 3.94. His proficiency in programming and expertise in robot frameworks have been recognized with national accolades in robotics competitions. Beyond his academic achievements, Zheng has a wealth of practical experience in the field of robotics engineering. He has demonstrated exceptional leadership by successfully spearheading multiple technology projects.
 {style="text-align: justify;"}
