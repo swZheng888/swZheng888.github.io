@@ -45,7 +45,7 @@ education:
     - course: BSc in Control Science and Engineering
       institution: LanZhou University of Technology
       year: 2025
-
+ 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
