@@ -41,7 +41,7 @@ education:
     #   year: 2012
     - course: M.E in Central South University
       institution: Computer science
-      year: 2009
+      year: 2028
     - course: BSc in Control Science and Engineering
       institution: LanZhou University of Technology
       year: 2025
