@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>郑嗣炜 Zheng Siwei | Robotics & Autonomous Systems</title>
+  <meta name="description" content="郑嗣炜的机器人、无人机、F1TENTH、强化学习与 RoboMaster 技术主页。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@600;700&family=Noto+Sans+SC:wght@400;500;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header" data-elevated="false">
+    <div class="header-inner">
+      <a class="brand" href="#top">郑嗣炜 <span>Zheng Siwei</span></a>
+      <nav class="nav-links" aria-label="Primary navigation">
+        <a href="#research">Research</a>
+        <a href="#projects">Projects</a>
+        <a href="#awards">Awards</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="profile section-wrap">
+      <div class="profile-main">
+        <p class="kicker">Robotics and Autonomous Systems</p>
+        <h1>郑嗣炜 <span>Zheng Siwei</span></h1>
+        <p class="lead">
+          I am interested in field robotics and autonomous systems, with experience in UAV trajectory planning,
+          reinforcement-learning-based flight control, high-speed autonomous racing, ROS navigation, and embedded
+          perception/control. I was part of team FeiSi from Central South University, which ranked first in the
+          preliminary round of the RoboMaster 2025 University AI Challenge. My work emphasizes deployable autonomy:
+          algorithms are evaluated through closed-loop
+          experiments on physical platforms rather than only in offline simulation.
+        </p>
+        <p class="lead cn">
+          我的研究与工程兴趣集中在具身机器人系统、无人机规划与控制、高速自主赛车、ROS 导航以及边缘端感知部署。
+          我所在的中南大学 FeiSi 队伍获得 RoboMaster 2025 机甲大师高校人工智能挑战赛初赛第一名。
+          我更关注“可部署”的自主系统：算法需要在真实硬件、真实场地和实时约束下完成闭环验证。
+        </p>
+        <div class="profile-links">
+          <a href="mailto:siweizheng03@163.com">Email</a>
+          <a href="https://github.com/swZheng888" target="_blank" rel="noopener">GitHub</a>
+          <a href="https://space.bilibili.com/425589267" target="_blank" rel="noopener">Bilibili</a>
+        </div>
+      </div>
+
+      <aside class="profile-side" aria-label="Profile information">
+        <div class="info-card">
+          <h2>Affiliation</h2>
+          <p>Central South University</p>
+          <p>M.E. Candidate in Computer Science, expected 2028</p>
+        </div>
+        <div class="info-card">
+          <h2>Research Interests</h2>
+          <ul>
+            <li>Trajectory planning and motion control for UAVs</li>
+            <li>Reinforcement learning for robotic control</li>
+            <li>High-speed autonomous racing and F1TENTH systems</li>
+            <li>ROS navigation, localization, and sensor fusion</li>
+          </ul>
+        </div>
+      </aside>
+    </section>
+
+    <section id="research" class="section-wrap section-block">
+      <div class="section-title">
+        <h2>Research Highlights</h2>
+        <p>Recent demonstrations and engineering results on physical robotic platforms.</p>
+      </div>
+      <div class="highlight-grid">
+        <article>
+          <span>UAV Planning</span>
+          <strong>Dynamic gate traversal</strong>
+          <p>Closed-loop UAV planning and control for traversing a moving gate under dynamic spatial constraints.</p>
+        </article>
+        <article>
+          <span>Robot System</span>
+          <strong>Dynamic gate on a mobile platform</strong>
+          <p>A mobile frame/gate setup for evaluating perception, prediction, planning, and execution beyond static scenes.</p>
+        </article>
+        <article>
+          <span>RMUA 2025</span>
+          <strong>Preliminary round champion</strong>
+          <p>Team FeiSi, Central South University, ranked 1st in the RoboMaster 2025 University AI Challenge preliminary round.</p>
+        </article>
+        <article>
+          <span>RL Control</span>
+          <strong>Circle flight with reinforcement learning</strong>
+          <p>Policy deployment for UAV circular trajectory tracking, flight stability, and sim-to-real-oriented evaluation.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="projects" class="section-wrap section-block">
+      <div class="section-title">
+        <h2>Selected Projects</h2>
+        <p>Videos are included as concise evidence that the systems run on real platforms.</p>
+      </div>
+
+      <div class="project-list">
+        <article class="project-row">
+          <div class="project-text">
+            <p class="project-meta">2026 · UAV Planning and Control</p>
+            <h3>UAV trajectory planning through a dynamic gate</h3>
+            <p>
+              Developed a planning-and-control workflow for a UAV to traverse a dynamic gate. The experiment integrates
+              trajectory generation, state feedback, and controller execution, with emphasis on feasibility and robustness
+              in a moving-target setting.
+            </p>
+          </div>
+          <video src="assets/drone-gate.web.mp4" poster="assets/drone-gate-poster.jpg" muted loop playsinline controls></video>
+        </article>
+
+        <article class="project-row">
+          <div class="project-text">
+            <p class="project-meta">2026 · Autonomous Racing</p>
+            <h3>F1TENTH high-speed autonomous racing</h3>
+            <p>
+              Built and tuned an F1TENTH racing platform for high-speed autonomous driving. The work covers track perception,
+              speed profile design, local control, and repeated field tuning for stable operation close to the vehicle's limits.
+            </p>
+          </div>
+          <video src="assets/f1tenth-car.web.mp4" poster="assets/f1tenth-car-poster.jpg" muted loop playsinline controls></video>
+        </article>
+
+        <article class="project-row">
+          <div class="project-text">
+            <p class="project-meta">2026 · Reinforcement Learning</p>
+            <h3>Reinforcement-learning-based UAV circular flight</h3>
+            <p>
+              Evaluated an RL-based flight controller on a circular trajectory. The project focuses on tracking behavior,
+              policy stability, and deployment-oriented control performance under physical flight dynamics.
+            </p>
+          </div>
+          <video src="assets/rl-drone-circle.web.mp4" poster="assets/rl-drone-circle-poster.jpg" muted loop playsinline controls></video>
+        </article>
+
+      </div>
+    </section>
+
+    <section id="awards" class="section-wrap section-block award-block">
+      <div class="section-title">
+        <h2>Awards</h2>
+        <p>Competition experience and technical recognition from robotics engineering practice.</p>
+      </div>
+      <div class="award-list">
+        <article class="award-row result-award ranking-award">
+          <figure class="ranking-figure">
+            <img src="assets/rmua-2025-ranking.png" alt="RoboMaster 2025 University AI Challenge preliminary ranking showing FeiSi ranked first">
+            <figcaption>Official RMUA 2025 preliminary ranking, team FeiSi ranked 1st.</figcaption>
+          </figure>
+          <div>
+            <p class="project-meta">2025 · RoboMaster University AI Challenge</p>
+            <h3>Preliminary Round Champion, Team FeiSi, Central South University</h3>
+            <p>
+              Ranked first in the preliminary round of the RoboMaster 2025 University AI Challenge. The official ranking
+              lists team FeiSi from Central South University as rank 1, with a total time of 00:03:02.156, maximum speed
+              of 26.5 m/s, and average speed of 11.51 m/s.
+            </p>
+          </div>
+        </article>
+        <article class="award-row">
+          <img src="assets/rm-award.jpg" alt="2025 RoboMaster Award 技术奖牌">
+          <div>
+            <p class="project-meta">2025 · RoboMaster</p>
+            <h3>RoboMaster Award, Technical Category</h3>
+            <p>
+              Received the RoboMaster technical award in 2025. The experience reflects hands-on engineering work across
+              system integration, hardware/software debugging, competition constraints, and reliable field operation.
+            </p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section-wrap section-block">
+      <div class="section-title">
+        <h2>Competition Results</h2>
+        <p>Selected measurable outcomes from autonomous racing and robotics competitions.</p>
+      </div>
+      <div class="result-grid">
+        <article>
+          <strong>1st</strong>
+          <span>RMUA 2025 Preliminary Round</span>
+          <p>Team FeiSi, Central South University; total time 00:03:02.156.</p>
+        </article>
+        <article>
+          <strong>2nd</strong>
+          <span>F1TENTH Single-Lap Time</span>
+          <p>Lap-time-oriented optimization on a high-speed autonomous racing platform.</p>
+        </article>
+        <article>
+          <strong>153 FPS</strong>
+          <span>NPU YOLOv5 Inference</span>
+          <p>Edge perception acceleration for aquatic robot obstacle avoidance.</p>
+        </article>
+        <article>
+          <strong>1st Prize</strong>
+          <span>National Intelligent Car Race</span>
+          <p>Vision-based intelligent car system with real-time embedded control.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section-wrap section-block">
+      <div class="section-title">
+        <h2>Earlier Robotics Projects</h2>
+        <p>Selected projects from my previous homepage, retained here to show the continuity of my robotics work.</p>
+      </div>
+      <div class="compact-projects">
+        <article>
+          <p class="project-meta">ROS Navigation · National Intelligent Car Race</p>
+          <h3>Outdoor robot navigation system</h3>
+          <p>
+            Built a robust outdoor navigation pipeline using ROS. The system used Cartographer for mapping, EKF fusion of IMU
+            and odometry, AMCL for localization, A* for global planning, TEB for local planning, and Pure Pursuit for tracking.
+            The project received a national second prize in the National University Students Intelligent Car Race.
+          </p>
+          <div class="inline-links">
+            <a href="https://www.bilibili.com/video/BV14G411v7XC" target="_blank" rel="noopener">Video</a>
+            <a href="https://github.com/swZheng888" target="_blank" rel="noopener">GitHub</a>
+          </div>
+        </article>
+        <article>
+          <p class="project-meta">Embedded Vision · National Intelligent Car Race</p>
+          <h3>Vision-based intelligent car competition system</h3>
+          <p>
+            Developed a real-time visual tracking and control stack in C++ on an Edgeboard platform, including image correction,
+            adaptive thresholding, fuzzy PID control, serial communication, YOLOv3/PaddlePaddle inference, and an Infineon TC264
+            motion-control subsystem. The project achieved a national first prize in the competition.
+          </p>
+          <div class="inline-links">
+            <a href="https://swzheng888.github.io/uploads/intelligentcar.pdf" target="_blank" rel="noopener">PDF</a>
+            <a href="https://www.bilibili.com/video/BV1e841197zS" target="_blank" rel="noopener">Video</a>
+          </div>
+        </article>
+        <article>
+          <p class="project-meta">Edge AI · Aquatic Robot</p>
+          <h3>NPU-accelerated perception for aquatic robot navigation</h3>
+          <p>
+            At Zhejiang University Huzhou Research Institute, accelerated YOLOv5 inference for an aquatic robot to 153 FPS using
+            an NPU, integrated object recognition with path planning for obstacle avoidance, and contributed to paddle motion
+            control and power-system integration.
+          </p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section-wrap section-block two-column">
+      <div>
+        <div class="section-title">
+          <h2>Education and Experience</h2>
+        </div>
+        <div class="timeline">
+          <article>
+            <span>2025 - 2028</span>
+            <h3>Central South University</h3>
+            <p>M.E. Candidate in Computer Science.</p>
+          </article>
+          <article>
+            <span>2024 - Present</span>
+            <h3>Zhejiang University Huzhou Research Institute</h3>
+            <p>ROS software engineering for aquatic robots, including NPU-accelerated perception, obstacle avoidance, paddle control, power integration, and field debugging.</p>
+          </article>
+          <article>
+            <span>2021 - 2025</span>
+            <h3>Lanzhou University of Technology</h3>
+            <p>B.Sc. in Control Science and Engineering. Robotics competitions and automation engineering projects.</p>
+          </article>
+        </div>
+      </div>
+
+      <div>
+        <div class="section-title">
+          <h2>Technical Skills</h2>
+        </div>
+        <div class="skills-list">
+          <p><strong>Planning and Control:</strong> trajectory generation, path tracking, fuzzy PID, Pure Pursuit, TEB, A*, speed-profile design</p>
+          <p><strong>Robotics:</strong> ROS, Cartographer, AMCL, EKF sensor fusion, localization, navigation-stack integration</p>
+          <p><strong>Learning and Perception:</strong> reinforcement learning, YOLOv3/v5, PaddlePaddle, image correction, adaptive thresholding, NPU acceleration</p>
+          <p><strong>Embedded Systems:</strong> C++, Python, Linux, Edgeboard, Infineon TC264, serial communication, real-time field debugging</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="contact section-wrap">
+      <h2>Contact</h2>
+      <p>For robotics research, autonomous systems projects, or engineering collaboration, feel free to reach out.</p>
+      <div class="profile-links">
+        <a href="mailto:siweizheng03@163.com">siweizheng03@163.com</a>
+        <a href="https://github.com/swZheng888" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://space.bilibili.com/425589267" target="_blank" rel="noopener">Bilibili</a>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
